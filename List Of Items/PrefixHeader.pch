@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  List Of Items
+//
+//  Created by ankit bharti on 23/03/17.
+//  Copyright © 2017 KaHa. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "ViewController.h"
+#import "DashboardBannerCell.h"
+#import "DashboardBannerItem.h"
+#import "ItemViewCell.h"
+#import "MainItem.h"
+#import "InsiderItemViewCell.h"
+#import "ItemHeaderViewCell.h"
+
+#endif /* PrefixHeader_pch */
